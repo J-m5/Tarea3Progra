@@ -1,0 +1,2 @@
+umg.edu.gt.handler.App
+umg.edu.gt.handler.App: void main(java.lang.String[])
